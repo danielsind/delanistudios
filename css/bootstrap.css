@@ -6413,14 +6413,6 @@
     color: #fff;
     text-align: center;
   }
-  .carousel2-caption {
-    position: absolute;
-    right: 15%;
-    left: 15%;
-    z-index: 10;
-    color: #fff;
-    text-align: center;
-  }
   
   @-webkit-keyframes spinner-border {
     to {
