@@ -17,14 +17,23 @@ body{
 }
 .port{
     justify-content: space-evenly;
+    text-align: left;
 }
 .portfolio{
     justify-content: space-around;
     justify-content: space-evenly;
+    text-align: left;
 }
 .wk{
     padding-right: 4%;
 }
 .contacts{
     position: relative;
+}
+.contact-us {
+	width: 100%;
+	color: white;
+}
+.services2{
+    margin-bottom: 7%;
 }
