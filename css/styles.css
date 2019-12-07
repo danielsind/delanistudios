@@ -1,0 +1,11 @@
+.h1round{
+    border: solid white  8px;
+    width: 8%;
+    text-align: center;
+}
+.about{
+    text-align: center;
+}
+.services{
+    position: relative;
+}
