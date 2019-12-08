@@ -2,4 +2,10 @@ $(document).ready(function(){
     $("#designimg").click(function(){
     $(".design").toggle()
 });
+$("#developmentimg").click(function(){
+    $(".development").toggle()
+});
+$("#productimg").click(function(){
+    $(".product").toggle()
+})
 });
