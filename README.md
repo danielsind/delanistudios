@@ -19,6 +19,7 @@
  * Styling with Bootstrap
  * Mail chimp
  * Responsiveness
+ * Debugging
 ### [Delani_studios](https://danielsind.github.io/delanistudios/)
 ## Acknowledgement
 * > Betty my pair for helping on the styling advice.
