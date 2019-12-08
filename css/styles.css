@@ -37,3 +37,6 @@ body{
 .services2{
     margin-bottom: 7%;
 }
+.product,.design ,.development {
+    display: none;
+}
