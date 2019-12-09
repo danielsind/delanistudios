@@ -22,6 +22,8 @@
  * Responsiveness
  * Debugging
 ### [Delani_studios](https://danielsind.github.io/delanistudios/)
+## Code beat grade 
+> [![codebeat badge](https://codebeat.co/badges/9ff93cf1-ca3d-4b2b-9e4b-855fa6761dc0)](https://codebeat.co/projects/github-com-danielsind-delanistudios-master)
 ## Acknowledgement
 * > Betty my pair for helping on the styling advice.
 * > Moringa school Technical Mentors for challenging me and encouraging me.
