@@ -97,3 +97,35 @@ body{
     padding: 20%;
     display: none;
 }
+@media (max-width : 480px){
+ #homeimg{
+     display: none;
+ }
+#welcome{
+    position: relative;
+    color: black;
+    background-color: chocolate;
+    width: 100%;
+}
+#servicesimg{
+    display: none;
+}
+#servicestext{
+    position: relative;
+    color: black;
+    background-color: coral;
+
+}
+#contactsimg{
+    display: none;
+}
+#contactstext{
+    color: black;
+    position: relative;
+    background-color: cornflowerblue;
+    background-color: rgba(200,200,200,0.5);
+}
+body{
+    overflow-x: hidden;
+}
+}
