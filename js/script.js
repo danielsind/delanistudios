@@ -41,6 +41,6 @@ $("form#contact-us").submit(function(){
     var message = $("textarea#message").val();
     var stored ="Name: " + name + "  " + "email: " + mail + "  " + "message: " + message
     $ (alert(stored));
-    $ (alert("Thank you for your submission "));
+    $ (alert("Thank you!!, your submission is well received "));
 })
 });
