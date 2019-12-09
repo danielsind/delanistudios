@@ -35,8 +35,10 @@ $(".wk7").hover(function(){
 $(".wk8").hover(function(){
     $(".appear8").toggle()
 })
-$("#submit").click(function(){
-    $ (alert("Thank you for your submission"))
-    $
+$("form#contact-us").submit(function(){
+    var name = $("input#name").val();
+    var mail = $("input#email").val();
+    var message = $("textarea#message").val();
+    $ (alert("Thank you for your submission " + message))
 })
 });
