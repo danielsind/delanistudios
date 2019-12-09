@@ -136,7 +136,6 @@ body{
    body{
        overflow-x: hidden;
        width: 100% auto;
-       font-size: 35px;
    }
    }
 @media screen and  (max-width : 480px){
@@ -172,6 +171,5 @@ body{
 body{
     overflow-x: hidden;
     width: 100% auto;
-    font-size: 15px;
 }
 }
