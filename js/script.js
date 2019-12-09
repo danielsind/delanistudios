@@ -1,12 +1,15 @@
 $(document).ready(function(){
-    $("#designimg").click(function(){
+    $("#designimg, .design").click(function(){
     $(".design").toggle()
+    $("#designimg").toggle()
 });
-$("#developmentimg").click(function(){
+$("#developmentimg, .development").click(function(){
     $(".development").toggle()
+    $("#developmentimg").toggle()
 });
-$("#productimg").click(function(){
+$("#productimg , .product").click(function(){
     $(".product").toggle()
+    $("#productimg").toggle()
 })
 $(".wk1").hover(function(){
     $(".appear1").toggle()
