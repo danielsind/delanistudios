@@ -39,8 +39,8 @@ $("form#contact-us").submit(function(){
     var name = $("input#name").val();
     var mail = $("input#email").val();
     var message = $("textarea#message").val();
-    var stored ="Name : " + name + ".<br> " + "email: " + mail + "<br>" + "message: " + message
+    var stored ="Name: " + name + "  " + "email: " + mail + "  " + "message: " + message
     $ (alert(stored));
-    $ (alert("Thank you for your submission "))
+    $ (alert("Thank you for your submission "));
 })
 });
