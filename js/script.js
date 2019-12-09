@@ -35,4 +35,8 @@ $(".wk7").hover(function(){
 $(".wk8").hover(function(){
     $(".appear8").toggle()
 })
+$("#submit").click(function(){
+    $ (alert("Thank you for your submission"))
+    $
+})
 });
