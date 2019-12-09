@@ -3,7 +3,8 @@
 ## Author 
  > Daniel Sindet
  > Date:8th December 2019 
-### This project is a copy of Delani studio and has a form that takes
+ ## DESCRIPTION
+### This project is a copy of Delani studio webpage and has a form that takes
 * Name
 * Mail
 * Message
