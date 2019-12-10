@@ -2,7 +2,10 @@
 # DELANI STUSIOS
 ## Author 
  > Daniel Sindet
- > Date:8th December 2019 
+ > Date:8th December 2019
+ ### Contact
+ > +254-790-490-682
+ > danielsindet@gmail.com
  ## DESCRIPTION
 ### This project is a copy of Delani studio webpage and has a form that takes
 * Name
