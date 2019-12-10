@@ -24,10 +24,6 @@ body{
     justify-content: space-evenly;
     text-align: left;
 }
-.wk{
-    padding-right: 4%;
-    position: relative;
-}
 .contacts{
     position: relative;
 }
@@ -45,56 +41,48 @@ body{
     background-color: rgba(200,200,200,0.5);
     color: black;
     text-align: center;
-    padding: 20%;
     display: none;
 }
 .appear2{
     background-color: rgba(200,200,200,0.5);
     color: black;
     text-align: center;
-    padding: 20%;
     display: none;
 }
 .appear3{
     background-color: rgba(200,200,200,0.5);
     color: black;
     text-align: center;
-    padding: 20%;
     display: none;
 }
 .appear4{
     background-color: rgba(200,200,200,0.5);
     color: black;
     text-align: center;
-    padding: 20%;
     display: none;
 }
 .appear5{
     background-color: rgba(200,200,200,0.5);
     color: black;
     text-align: center;
-    padding: 20%;
     display: none;
 }
 .appear6{
     background-color: rgba(200,200,200,0.5);
     color: black;
     text-align: center;
-    padding: 20%;
     display: none;
 }
 .appear7{
     background-color: rgba(200,200,200,0.5);
     color: black;
     text-align: center;
-    padding: 20%;
     display: none;
 }
 .appear8{
     background-color: rgba(200,200,200,0.5);
     color: black;
     text-align: center;
-    padding: 20%;
     display: none;
 }
 @media screen and  (max-width : 1024px){

@@ -1,8 +1,12 @@
 $(document).ready(function(){
+
+    // toggle effect
     $("#designimg, .design").click(function(){
     $(".design").toggle()
     $("#designimg").toggle()
 });
+
+// toggle
 $("#developmentimg, .development").click(function(){
     $(".development").toggle()
     $("#developmentimg").toggle()
@@ -11,6 +15,7 @@ $("#productimg , .product").click(function(){
     $(".product").toggle()
     $("#productimg").toggle()
 })
+// hover effect on the portfolio 
 $(".wk1").hover(function(){
     $(".appear1").toggle()
 })
@@ -35,6 +40,8 @@ $(".wk7").hover(function(){
 $(".wk8").hover(function(){
     $(".appear8").toggle()
 })
+
+// notification on the form
 $("form#contact-us").submit(function(){
     var name = $("input#name").val();
     var mail = $("input#email").val();
