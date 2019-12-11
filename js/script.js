@@ -42,10 +42,10 @@ $(".wk8").hover(function(){
 })
 
 // notification on the form
-$("form#contact-us").submit(function(){
-    var name = $("input#name").val();
-    var mail = $("input#email").val();
-    var message = $("textarea#message").val();
+$("form#mc-embedded-subscribe-form").submit(function(){
+    var name = $("input#mce-NAME").val();
+    var mail = $("input#mce-EMAIL").val();
+    var message = $("textarea#mce-MESSAGE").val();
     var stored ="Name: " + name + "  " + "email: " + mail + "  " + "message: " + message
     $ (alert(stored));
     $ (alert("Thank you!!, your submission is well received "));
